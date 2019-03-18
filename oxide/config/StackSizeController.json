@@ -2,18 +2,18 @@
   "Settings": {
     "CategoryDefaultStack": {
       "Ammunition": 0,
-      "Attire": 1,
+      "Attire": 0,
       "Common": 0,
       "Component": 0,
-      "Construction": 1,
+      "Construction": 0,
       "Food": 0,
       "Items": 0,
       "Medical": 0,
       "Misc": 0,
       "Resources": 0,
-      "Tools": 1,
+      "Tools": 0,
       "Traps": 1,
-      "Weapon": 1
+      "Weapon": 0
     },
     "DefaultStack": 1,
     "StackHealthItems": true
