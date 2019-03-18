@@ -6,5 +6,5 @@
   "Blacklist": [
     "rock"
   ],
-  "Split crafted stacks": false
+  "Split crafted stacks": true
 }
