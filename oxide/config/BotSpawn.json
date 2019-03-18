@@ -534,9 +534,9 @@
       "Sci_DeAggro_Range": 40
     },
     "SuperMarket": {
-      "AutoSpawn": false,
+      "AutoSpawn": true,
       "Murderer": false,
-      "Bots": 3,
+      "Bots": 1,
       "BotHealth": 100,
       "Radius": 100,
       "Kit": [],
@@ -548,7 +548,7 @@
       "Roam_Range": 40,
       "Peace_Keeper": true,
       "Peace_Keeper_Cool_Down": 5,
-      "Weapon_Drop_Chance": 100,
+      "Weapon_Drop_Chance": 1,
       "Keep_Default_Loadout": false,
       "Wipe_Belt": true,
       "Wipe_Clothing": true,
@@ -560,9 +560,9 @@
       "Sci_DeAggro_Range": 40
     },
     "SuperMarket1": {
-      "AutoSpawn": false,
+      "AutoSpawn": true,
       "Murderer": false,
-      "Bots": 3,
+      "Bots": 1,
       "BotHealth": 100,
       "Radius": 100,
       "Kit": [],
@@ -574,7 +574,7 @@
       "Roam_Range": 40,
       "Peace_Keeper": true,
       "Peace_Keeper_Cool_Down": 5,
-      "Weapon_Drop_Chance": 100,
+      "Weapon_Drop_Chance": 1,
       "Keep_Default_Loadout": false,
       "Wipe_Belt": true,
       "Wipe_Clothing": true,
@@ -586,7 +586,7 @@
       "Sci_DeAggro_Range": 40
     },
     "SewerBranch": {
-      "AutoSpawn": false,
+      "AutoSpawn": true,
       "Murderer": false,
       "Bots": 3,
       "BotHealth": 100,
@@ -834,7 +834,7 @@
       "Roam_Range": 40,
       "Peace_Keeper": true,
       "Peace_Keeper_Cool_Down": 5,
-      "Weapon_Drop_Chance": 100,
+      "Weapon_Drop_Chance": 1,
       "Keep_Default_Loadout": false,
       "Wipe_Belt": true,
       "Wipe_Clothing": true,
